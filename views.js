@@ -1,3 +1,5 @@
+/* These functions return HTML to be added as users interact with the app */
+
 function setUp() {
     return `
         <main>
